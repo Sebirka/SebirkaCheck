@@ -1,0 +1,6 @@
+name: SebirkaCheck
+version: '${project.version}'
+main: ban.sebirkacheck.SebirkaCheck
+api-version: '1.16'
+commands:
+  check:
